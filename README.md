@@ -43,16 +43,16 @@ My work spans **game development**, **web applications**, and **technical proble
 ## Pentesting / Security Tools
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Metasploit_logo.png" width="40" title="Metasploit"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Burp_Suite_Logo.png" width="40" title="Burp Suite"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Nmap-logo.svg" width="40" title="Nmap"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Wireshark_Logo.png" width="40" title="Wireshark"/>
-  <img src="https://rustscan.github.io/img/logo.png" width="40" title="RustScan"/>
-  <img src="https://raw.githubusercontent.com/robertdavidgraham/masscan/master/logo/masscan.svg" width="40" title="Masscan"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Ghidra_Logo.svg" width="40" title="Ghidra"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/IDA_Pro_Logo.png" width="40" title="IDA Pro"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/SpiderFoot_Logo.png" width="40" title="SpiderFoot"/>
-  <img src="https://www.invicti.com/hubfs/Invicti_Logo.svg" width="40" title="Invicti Enterprise"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/X64dbg_logo.png" width="40" title="x64 Debugger"/>
+  <img src="https://github.com/infosec-tools/logos/raw/main/metasploit.png" width="40" title="Metasploit"/>
+  <img src="https://github.com/infosec-tools/logos/raw/main/burpsuite.png" width="40" title="Burp Suite"/>
+  <img src="https://github.com/infosec-tools/logos/raw/main/nmap.png" width="40" title="Nmap"/>
+  <img src="https://github.com/infosec-tools/logos/raw/main/wireshark.png" width="40" title="Wireshark"/>
+  <img src="https://github.com/infosec-tools/logos/raw/main/rustscan.png" width="40" title="RustScan"/>
+  <img src="https://github.com/infosec-tools/logos/raw/main/masscan.png" width="40" title="Masscan"/>
+  <img src="https://github.com/infosec-tools/logos/raw/main/ghidra.png" width="40" title="Ghidra"/>
+  <img src="https://github.com/infosec-tools/logos/raw/main/ida.png" width="40" title="IDA Pro"/>
+  <img src="https://github.com/infosec-tools/logos/raw/main/spiderfoot.png" width="40" title="SpiderFoot"/>
+  <img src="https://github.com/infosec-tools/logos/raw/main/invicti.png" width="40" title="Invicti Enterprise"/>
+  <img src="https://github.com/infosec-tools/logos/raw/main/x64dbg.png" width="40" title="x64 Debugger"/>
 </p>
 
