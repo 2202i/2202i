@@ -14,6 +14,8 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 - 🐞 Strong foundation in debugging, malware analysis, exploitation, and remediation
 - 🌱 Continuously learning and refining offensive and defensive security practices
 
+---
+
 ## Languages
 
 <p align="left">
@@ -39,6 +41,8 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40"/>
 
 </p>
+
+---
 
 ## Connect with me
 
