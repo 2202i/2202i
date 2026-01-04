@@ -1,4 +1,4 @@
-# Hi 👋🏻, I'm Seol <br> [@northern_.italy](https://www.instagram.com/northern_.italy/)
+# Hi 👋🏻, I'm Seol
 
 ## Cybersecurity Analyst | Penetration Tester | Technical Engineer | Game Developer | Capture-The-Flag Player
 
@@ -40,4 +40,11 @@ My work spans **game development**, **web applications**, and **technical proble
 
 </p>
 
+## Connect with me
 
+<p align="left">
+  ## [@northern_.italy]
+  <a href="https://www.instagram.com/northern_.italy/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+  </a>
+</p>
