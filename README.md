@@ -5,6 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=2202i&label=Profile%20Views&color=4A6378&style=flat) ![Commits](https://img.shields.io/badge/Commits-Active-4A6378?style=flat) ![Status](https://img.shields.io/badge/Status-Ethical%20Hacker-4A6378?style=flat)
 
 I specialize on **Ethical Hacking,** **Malware Analysis,** **Vulnerability Analysis,** and **Penetration Testing**.  
+My work spans **penetration testing**, **vulnerability assessment**, **server & cloud infrastructure**, and **software-based security solutions**.
 
 - 🔐 Conduct vulnerability assessments and penetration testing (Web, Mobile, Infrastructure)
 - 🐧 Work extensively with Linux systems, server hardening, and privilege escalation
