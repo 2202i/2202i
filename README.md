@@ -2,7 +2,7 @@
 
 ## Cybersecurity Analyst | Penetration Tester | Technical Engineer | Game Developer | Capture-The-Flag Player
 
-![Profile Views](https://komarev.com/ghpvc/?username=2202i&label=Profile%20Views&color=4A6378&style=flat) ![Commits](https://img.shields.io/badge/Commits-Active-4A6378?style=flat) ![Status](https://img.shields.io/badge/Status-Learning%20Everyday-4A6378?style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=2202i&label=Profile%20Views&color=4A6378&style=flat) ![Commits](https://img.shields.io/badge/Commits-Active-4A6378?style=flat) ![Status](https://img.shields.io/badge/Status-Ethical%20Hacker-4A6378?style=flat) ![Status](https://img.shields.io/badge/Status-Learning%20Everyday-4A6378?style=flat)
 
 I specialize on **Ethical Hacking,** **Malware Analysis,** **Vulnerability Analysis,** and **Penetration Testing**.  
 My work spans **game development**, **web applications**, and **technical problem-solving**.
@@ -33,7 +33,6 @@ My work spans **game development**, **web applications**, and **technical proble
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
 
   <!-- DevOps / Cloud / Tooling -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
