@@ -43,7 +43,8 @@ My work spans **game development**, **web applications**, and **technical proble
 ## Connect with me
 
 <p align="left">
-  ## [@northern_.italy]
+  @northern_.italy
+  <p></p>
   <a href="https://www.instagram.com/northern_.italy/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
   </a>
