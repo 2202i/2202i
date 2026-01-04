@@ -14,7 +14,7 @@ My work spans **game development**, **web applications**, and **technical proble
 - 🐞 Strong foundation in debugging, malware analysis, exploitation, and remediation
 - 🌱 Continuously learning and refining offensive and defensive security practices
 
-## Languages and Tools
+## Languages
 
 <p align="left">
   <!-- Operating Systems / Core -->
@@ -40,19 +40,4 @@ My work spans **game development**, **web applications**, and **technical proble
 
 </p>
 
-## Pentesting / Security Tools
-
-<p align="left">
-  <img src="https://github.com/infosec-tools/logos/raw/main/metasploit.png" width="40" title="Metasploit"/>
-  <img src="https://github.com/infosec-tools/logos/raw/main/burpsuite.png" width="40" title="Burp Suite"/>
-  <img src="https://github.com/infosec-tools/logos/raw/main/nmap.png" width="40" title="Nmap"/>
-  <img src="https://github.com/infosec-tools/logos/raw/main/wireshark.png" width="40" title="Wireshark"/>
-  <img src="https://github.com/infosec-tools/logos/raw/main/rustscan.png" width="40" title="RustScan"/>
-  <img src="https://github.com/infosec-tools/logos/raw/main/masscan.png" width="40" title="Masscan"/>
-  <img src="https://github.com/infosec-tools/logos/raw/main/ghidra.png" width="40" title="Ghidra"/>
-  <img src="https://github.com/infosec-tools/logos/raw/main/ida.png" width="40" title="IDA Pro"/>
-  <img src="https://github.com/infosec-tools/logos/raw/main/spiderfoot.png" width="40" title="SpiderFoot"/>
-  <img src="https://github.com/infosec-tools/logos/raw/main/invicti.png" width="40" title="Invicti Enterprise"/>
-  <img src="https://github.com/infosec-tools/logos/raw/main/x64dbg.png" width="40" title="x64 Debugger"/>
-</p>
 
