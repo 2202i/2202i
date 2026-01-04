@@ -7,8 +7,7 @@
 I specialize on **Ethical Hacking,** **Malware Analysis,** **Vulnerability Analysis,** and **Penetration Testing**.  
 My work spans **game development**, **web applications**, and **technical problem-solving**.
 
-- 🎮 Develop games with clean and maintainable code  
-- 🌐 Build responsive and functional websites  
-- 🧠 Assist with social media account recovery through technical and security knowledge  
+- 🎮 Values practice on Ethical Hacking
+- 🧠 Assist with server administration through technical and security knowledge  
 - 🐞 Strong foundation in debugging, system analysis, and implementation. 
-- 🌱 Continuously learning and improving engineering practices  
+- 🌱 Continuously learning and improving technical practices  
