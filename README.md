@@ -84,13 +84,11 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 [![CrackMapExec](https://img.shields.io/badge/CrackMapExec-Active_Directory-111111?style=flat&logo=linux&logoColor=white)](https://github.com/Porchetta-Industries/CrackMapExec)
 
 ## 🪟 Windows Payloads & Privilege Escalation
-
 [![msfvenom](https://img.shields.io/badge/msfvenom-Payload_Generation-111111?style=flat&logo=metasploit&logoColor=white)](https://docs.metasploit.com/docs/using-metasploit/basics/how-to-use-msfvenom.html)
 [![linPEAS](https://img.shields.io/badge/linPEAS-Privilege_Escalation-111111?style=flat&logo=linux&logoColor=white)](https://github.com/carlospolop/PEASS-ng)
 [![GTFOBins](https://img.shields.io/badge/GTFOBins-Linux_PrivEsc-111111?style=flat&logo=linux&logoColor=white)](https://gtfobins.github.io)
 
 ## 🧪 Command & Control (C2) Frameworks (Automated Exploitation mostly)
-
 [![Metasploit](https://img.shields.io/badge/Metasploit-C2_Framework-111111?style=flat&logo=metasploit&logoColor=white)](https://www.metasploit.com)
 
 ## 🔵 Blue Team / Defensive Tools
