@@ -66,4 +66,11 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 
 ## Tools that I Use
 
-
+[![Nmap](https://img.shields.io/badge/Nmap-Scanner-111111?style=flat&logo=nmap&logoColor=white)](https://nmap.org)
+[![RustScan](https://img.shields.io/badge/RustScan-Scanner-111111?style=flat&logo=rust&logoColor=white)](https://rustscan.github.io)
+[![Masscan](https://img.shields.io/badge/Masscan-Scanner-111111?style=flat&logo=linux&logoColor=white)](https://github.com/robertdavidgraham/masscan)
+[![Fping](https://img.shields.io/badge/Fping-Scanner-111111?style=flat&logo=gnu&logoColor=white)](https://fping.org)
+[![OpenVAS](https://img.shields.io/badge/OpenVAS-Vulnerability-111111?style=flat&logo=greenbone&logoColor=white)](https://www.openvas.org)
+[![Nessus](https://img.shields.io/badge/Nessus-Vulnerability-111111?style=flat&logo=tenable&logoColor=white)](https://www.tenable.com/products/nessus)
+[![Nikto](https://img.shields.io/badge/Nikto-Web-111111?style=flat&logo=apache&logoColor=white)](https://github.com/sullo/nikto)
+[![Gobuster](https://img.shields.io/badge/Gobuster-Web-111111?style=flat&logo=go&logoColor=white)](https://github.com/OJ/gobuster)
