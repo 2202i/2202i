@@ -69,7 +69,6 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 [![Gobuster](https://img.shields.io/badge/Gobuster-Discovery-111111?style=flat&logo=go&logoColor=white)](https://github.com/OJ/gobuster)
 [![DirBuster](https://img.shields.io/badge/DirBuster-Discovery-111111?style=flat&logo=java&logoColor=white)](https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project)
 
----
 
 ## 🔴 Red Team Tools
 
@@ -90,7 +89,7 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 [![linPEAS](https://img.shields.io/badge/linPEAS-Privilege_Escalation-111111?style=flat&logo=linux&logoColor=white)](https://github.com/carlospolop/PEASS-ng)
 [![GTFOBins](https://img.shields.io/badge/GTFOBins-Linux_PrivEsc-111111?style=flat&logo=linux&logoColor=white)](https://gtfobins.github.io)
 
-## 🧪 Command & Control (C2) Frameworks
+## 🧪 Command & Control (C2) Frameworks (Automated Exploitation mostly)
 
 [![Metasploit](https://img.shields.io/badge/Metasploit-C2_Framework-111111?style=flat&logo=metasploit&logoColor=white)](https://www.metasploit.com)
 
