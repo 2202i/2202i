@@ -64,4 +64,6 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 
 ---
 
-## My profile is still under construction btw, have to add security tools that i use
+## Tools that I Use
+
+
