@@ -93,7 +93,6 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 
 [![Metasploit](https://img.shields.io/badge/Metasploit-C2_Framework-111111?style=flat&logo=metasploit&logoColor=white)](https://www.metasploit.com)
 
-
 ## 🔵 Blue Team / Defensive Tools
 
 ### 📡 Monitoring & Traffic Analysis
