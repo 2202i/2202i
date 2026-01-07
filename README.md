@@ -44,14 +44,12 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 
 ---
 
-## Tools that I use a lot
+## 🛡️ Tools that I use a lot
 
 ### 🌐 Network Scanning & Enumeration
 [![Nmap](https://img.shields.io/badge/Nmap-Scanner-111111?style=flat&logo=nmap&logoColor=white)](https://nmap.org)
 [![RustScan](https://img.shields.io/badge/RustScan-Scanner-111111?style=flat&logo=rust&logoColor=white)](https://rustscan.github.io)
 [![Masscan](https://img.shields.io/badge/Masscan-Scanner-111111?style=flat&logo=linux&logoColor=white)](https://github.com/robertdavidgraham/masscan)
-[![Fping](https://img.shields.io/badge/Fping-ICMP-111111?style=flat&logo=gnu&logoColor=white)](https://fping.org)
-[![Netdiscover](https://img.shields.io/badge/Netdiscover-ARP-111111?style=flat&logo=linux&logoColor=white)](https://github.com/alexxy/netdiscover)
 [![enum4linux](https://img.shields.io/badge/enum4linux-SMB-111111?style=flat&logo=linux&logoColor=white)](https://github.com/CiscoCXSecurity/enum4linux)
 [![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-111111?style=flat&logo=wireshark&logoColor=white)](https://www.wireshark.org)
 [![TCPdump](https://img.shields.io/badge/TCPdump-Packet_Analysis-111111?style=flat&logo=linux&logoColor=white)](https://www.tcpdump.org)
@@ -71,26 +69,43 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 [![Gobuster](https://img.shields.io/badge/Gobuster-Discovery-111111?style=flat&logo=go&logoColor=white)](https://github.com/OJ/gobuster)
 [![DirBuster](https://img.shields.io/badge/DirBuster-Discovery-111111?style=flat&logo=java&logoColor=white)](https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project)
 
+---
+
+## 🔴 Red Team Tools
+
 ### 🔑 Credential & Password Attacks
 [![Hydra](https://img.shields.io/badge/Hydra-Bruteforce-111111?style=flat&logo=linux&logoColor=white)](https://github.com/vanhauser-thc/thc-hydra)
+[![Medusa](https://img.shields.io/badge/Medusa-Bruteforce-111111?style=flat&logo=linux&logoColor=white)](https://github.com/jmk-foofus/medusa)
 [![John](https://img.shields.io/badge/John_The_Ripper-Cracking-111111?style=flat&logo=linux&logoColor=white)](https://www.openwall.com/john)
 [![Hashcat](https://img.shields.io/badge/Hashcat-GPU_Cracking-111111?style=flat&logo=nvidia&logoColor=white)](https://hashcat.net/hashcat/)
 
-### 📡 Wireless & Network Attacks
-[![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-WiFi-111111?style=flat&logo=wifi&logoColor=white)](https://www.aircrack-ng.org)
-[![Bettercap](https://img.shields.io/badge/Bettercap-MITM-111111?style=flat&logo=linux&logoColor=white)](https://www.bettercap.org)
-
-### 🧠 Exploitation & Frameworks
+### 🧠 Exploitation & Post-Exploitation
 [![Metasploit](https://img.shields.io/badge/Metasploit-Framework-111111?style=flat&logo=metasploit&logoColor=white)](https://www.metasploit.com)
 [![SQLmap](https://img.shields.io/badge/SQLmap-SQLi-111111?style=flat&logo=python&logoColor=white)](https://sqlmap.org)
 [![CrackMapExec](https://img.shields.io/badge/CrackMapExec-Active_Directory-111111?style=flat&logo=linux&logoColor=white)](https://github.com/Porchetta-Industries/CrackMapExec)
 
-### 🧬 Reverse Engineering
-[![Ghidra](https://img.shields.io/badge/Ghidra-Reversing-111111?style=flat&logo=java&logoColor=white)](https://ghidra-sre.org)
-[![x64dbg](https://img.shields.io/badge/x64dbg-Debugger-111111?style=flat&logo=windows&logoColor=white)](https://x64dbg.com)
-[![IDA](https://img.shields.io/badge/IDA-Reversing-111111?style=flat&logo=hexo&logoColor=white)](https://hex-rays.com/ida-pro/)
+## 🪟 Windows Payloads & Privilege Escalation
 
-### 🧰 OSINT & Reconnaissance
+[![msfvenom](https://img.shields.io/badge/msfvenom-Payload_Generation-111111?style=flat&logo=metasploit&logoColor=white)](https://docs.metasploit.com/docs/using-metasploit/basics/how-to-use-msfvenom.html)
+[![linPEAS](https://img.shields.io/badge/linPEAS-Privilege_Escalation-111111?style=flat&logo=linux&logoColor=white)](https://github.com/carlospolop/PEASS-ng)
+[![GTFOBins](https://img.shields.io/badge/GTFOBins-Linux_PrivEsc-111111?style=flat&logo=linux&logoColor=white)](https://gtfobins.github.io)
+
+## 🧪 Command & Control (C2) Frameworks
+
+[![Metasploit](https://img.shields.io/badge/Metasploit-C2_Framework-111111?style=flat&logo=metasploit&logoColor=white)](https://www.metasploit.com)
+
+
+## 🔵 Blue Team / Defensive Tools
+
+### 📡 Monitoring & Traffic Analysis
+[![Wireshark](https://img.shields.io/badge/Wireshark-Forensics-111111?style=flat&logo=wireshark&logoColor=white)](https://www.wireshark.org)
+[![TCPdump](https://img.shields.io/badge/TCPdump-Traffic_Analysis-111111?style=flat&logo=linux&logoColor=white)](https://www.tcpdump.org)
+
+### 🛡️ Defensive Scanning & Validation
+[![Nessus](https://img.shields.io/badge/Nessus-Blue_Team-111111?style=flat&logo=tenable&logoColor=white)](https://www.tenable.com/products/nessus)
+[![OpenVAS](https://img.shields.io/badge/OpenVAS-Blue_Team-111111?style=flat&logo=greenbone&logoColor=white)](https://www.openvas.org)
+
+## 🧰 OSINT & Reconnaissance
 [![Amass](https://img.shields.io/badge/Amass-OSINT-111111?style=flat&logo=owasp&logoColor=white)](https://github.com/owasp-amass/amass)
 [![Recon-ng](https://img.shields.io/badge/Recon--ng-Framework-111111?style=flat&logo=python&logoColor=white)](https://github.com/lanmaster53/recon-ng)
 [![SpiderFoot](https://img.shields.io/badge/SpiderFoot-OSINT-111111?style=flat&logo=python&logoColor=white)](https://www.spiderfoot.net)
