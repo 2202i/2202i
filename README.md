@@ -117,16 +117,3 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=2202i&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-
-## Connect with me
-
-<p align="left">
-  @northern_.italy
-  <p></p>
-  <a href="https://www.instagram.com/northern_.italy/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
-  </a>
-</p>
-
----
