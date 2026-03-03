@@ -32,6 +32,10 @@ Operating across **technical security operations**, **infrastructure protection*
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Palatino+Linotype&duration=1200&pause=1000&color=C02026&center=true&vCenter=true&repeat=false&width=435&lines=%22%EC%A0%80%EB%8A%94+%EB%AA%85%EC%98%88%EB%A5%BC+%EC%86%8C%EC%A4%91%ED%9E%88+%EC%97%AC%EA%B9%81%EB%8B%88%EB%8B%A4.%22" alt="Typing SVG" /></a>
 </div>
+<!-- berk quote -->
+<img src="images/line.png" height="2" width="100%">
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=200&width=2000&bannerText=Struggle,%20endure,%20contend%20%E2%80%94%20for%20that%20alone%20is%20the%20sword%20of%20one%20who%20defies%20death." />
+<img src="images/line.png" height="2" width="100%">
 <!-- berk -->
 <img src="images/line.png" height="2" width="100%">
 <div align="center">
