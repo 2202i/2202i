@@ -6,6 +6,7 @@
 
 I specialize in **Ethical Hacking**, **Malware Analysis**, **Vulnerability Assessment**, **Penetration Testing**, and **Information Security**, I operate across both offensive and defensive security domains.
 
+
 - 🔐 Conduct vulnerability assessments and penetration testing (Web, Mobile, Infrastructure)
 - 🐞 Perform malware analysis, exploitation, debugging, and remediation
 - 🐧 Extensive experience with Linux systems, server hardening, and privilege escalation
