@@ -226,10 +226,7 @@ Operating across **technical security operations**, **infrastructure protection*
 
 <br>
 
-<div align="center">
-<details style="width: 90%;">
-<summary>
-<strong><h2>📊 GitHub Stats 📈</h2></strong>
+<div align="center"> <details style="width: 90%;"> <summary><strong><h2> 📊 GitHub Stats 📈 </h2></strong>
 </summary>
 
 <br>
@@ -253,10 +250,7 @@ Operating across **technical security operations**, **infrastructure protection*
 
 <br>
 
-<div align="center">
-<details style="width: 90%;">
-<summary>
-<strong><h2>🏷️ Holopin Badges 🎖️</h2></strong>
+<div align="center"> <details style="width: 90%;"> <summary><strong><h2> 🏷️ Holopin Badges 🎖️ </h2></strong>
 </summary>
 
 <br>
