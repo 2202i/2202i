@@ -256,7 +256,7 @@ Operating across **technical security operations**, **infrastructure protection*
 <br>
 <br>
 
-<div align="center"> <details style="width: 90%;"> <summary><strong><h2> 🌸 Insignia of the Scarlet Bloom 🩸 </h2></strong>
+<div align="center"> <details style="width: 90%;"> <summary><strong><h2> 👑 Insignia of the Scarlet Bloom 🌸 </h2></strong>
 <p>˚.*ੈ✩‧₊˚ Blessings from the Goddess of Rot. ⋆.˚ ☾⭒.˚</p>
 </summary>
 
