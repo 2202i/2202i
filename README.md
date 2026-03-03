@@ -271,6 +271,4 @@ Operating across **technical security operations**, **infrastructure protection*
 </details>
 </div>
 
-<br>
-
 <img src="images/line.png" height="3" width="100%">
