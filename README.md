@@ -27,17 +27,16 @@ Operating across **technical security operations**, **infrastructure protection*
 - 👥 Conduct Active Directory auditing and access control reviews
 - 🧠 Deliver cybersecurity training, seminars, and technical demonstrations
 - 🌱 Continuously refining both offensive and defensive security methodologies
-
+<!-- Honor -->
 <img src="images/line.png" height="1" width="100%">
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Palatino+Linotype&duration=1200&pause=1000&color=C02026&center=true&vCenter=true&repeat=false&width=435&lines=%22%EC%A0%80%EB%8A%94+%EB%AA%85%EC%98%88%EB%A5%BC+%EC%86%8C%EC%A4%91%ED%9E%88+%EC%97%AC%EA%B9%81%EB%8B%88%EB%8B%A4.%22" alt="Typing SVG" /></a>
 </div>
 <img src="images/line.png" height="2" width="100%">
-
+<!-- berk -->
 <div align="center" 
-     style="background-color:#bb1414; padding:15px;">
 
-<img src="https://i.imgur.com/LoGNTOy.png" width="100%">
+<img src="images/berk1.png" height="100%" width="100%">
 
 </div>
 <img src="images/line.png" height="2" width="100%">
