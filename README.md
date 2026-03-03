@@ -131,6 +131,7 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 <td style="border: 1px solid #30363d;"></td>
 </tr>
 </table>
+
 ---
 
 ## 🛡️ Tools that I use a lot
