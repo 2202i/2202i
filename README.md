@@ -214,9 +214,45 @@ I operate across **technical security operations**, **infrastructure protection*
 
 ---
 
-# GitHub Stats
-  
-![](https://nirzak-streak-stats.vercel.app/?user=2202i&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=2202i&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+<details style="width: 90%;">
+<summary>
+<strong><span style="font-size: 22px;">📊 GitHub Stats — Click Me 👇</span></strong>
+</summary>
+
+<br>
+
+<table width="100%">
+<tr>
+<td align="center" width="50%">
+
+<!-- Profile Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=2202i&theme=github_dark&hide_border=true&show_icons=true" />
+
+<br><br>
+
+<!-- Streak Stats -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=2202i&theme=dark&hide_border=true" />
+
+</td>
+
+<td align="center" width="50%">
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2202i&theme=github_dark&hide_border=true&layout=compact" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph/?username=2202i&theme=github-dark&hide_border=true&area=true" width="100%"/>
+
+</details>
+
+</div>
 
 ---
