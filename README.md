@@ -45,34 +45,47 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 </p>
 
 ---
-<p align="left">
+<!--💻 Languages and Tools 🛠️-->
 
-  <!-- Animated Icons (Available) -->
+<!-- 👨‍💻 Programming & Markup Languages -->
+<h3>👨‍💻 Programming & Markup Languages</h3>
+<p align="left">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" />
-
-  <!-- Static (No Animated Version Available) -->
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="65"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="65"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="65"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="65"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="65"/>
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="65"/>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="65"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="65"/>
+</p>
+
+<!-- 🗄️ Databases -->
+<h3>🗄️ Databases</h3>
+<p align="left">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" />
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="65"/>
+</p>
+
+<!-- ⚛️ Frameworks & Libraries -->
+<h3>⚛️ Frameworks & Libraries</h3>
+<p align="left">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="65"/>
+</p>
+
+<!-- 🛠️ DevOps & Tools -->
+<h3>🛠️ DevOps & Tools</h3>
+<p align="left">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="65"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="65"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="65"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" width="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="65"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" width="65"/>
-  <img src="https://www.vectorlogo.zone/logos/splunk/splunk-ar21.svg" width="85"/>
-
 </p>
 ---
 
