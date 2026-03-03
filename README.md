@@ -7,7 +7,7 @@
 </div>
 <br>
 
-  <strong style="font-size:40px;">
+  <strong>
     Information Security | Cybersecurity Analyst | Penetration Tester | Game Developer | Capture The Flag Player
   </strong>
 <img src="images/line.png" height="2" width="100%">
