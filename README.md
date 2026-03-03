@@ -51,7 +51,7 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 
 <!-- 👨‍💻 Programming & Markup Languages -->
 <h3 align="center">👨‍💻 Programming & Markup Languages</h3>
-<table width="100%" cellspacing="0" cellpadding="14" style="border-collapse: collapse;">
+<table align="center" width="90%" cellspacing="0" cellpadding="14" style="border-collapse: collapse;">
 <tr>
 <td align="center" width="20%" style="border: 1px solid #30363d;">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" />
@@ -93,7 +93,7 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 
 <!-- 🗄️ Databases -->
 <h3 align="center">🗄️ Databases</h3>
-<table width="100%" cellspacing="0" cellpadding="14" style="border-collapse: collapse;">
+<table align="center" width="60%" cellspacing="0" cellpadding="14" style="border-collapse: collapse;">
 <tr>
 <td align="center" width="50%" style="border: 1px solid #30363d;">
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" />
@@ -108,7 +108,7 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 
 <!-- ⚛️ Frameworks & Libraries -->
 <h3 align="center">⚛️ Frameworks & Libraries</h3>
-<table width="100%" cellspacing="0" cellpadding="14" style="border-collapse: collapse;">
+<table align="center" width="60%" cellspacing="0" cellpadding="14" style="border-collapse: collapse;">
 <tr>
 <td align="center" width="50%" style="border: 1px solid #30363d;">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/>
@@ -123,7 +123,7 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 
 <!-- 🛠️ DevOps & Tools -->
 <h3 align="center">🛠️ DevOps & Tools</h3>
-<table width="100%" cellspacing="0" cellpadding="14" style="border-collapse: collapse;">
+<table align="center" width="90%" cellspacing="0" cellpadding="14" style="border-collapse: collapse;">
 <tr>
 <td align="center" width="20%" style="border: 1px solid #30363d;">
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65"/>
