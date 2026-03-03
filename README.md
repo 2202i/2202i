@@ -6,7 +6,9 @@
 
 </div>
 
-## Information Security | Cybersecurity Analyst | Penetration Tester | Game Developer | Capture The Flag Player
+<p style="font-size: 18px; font-weight: 600; letter-spacing: 1px;">
+Information Security | Cybersecurity Analyst | Penetration Tester | Game Developer | Capture The Flag Player
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=2202i&label=Profile%20Views&color=4A6378&style=flat) ![Commits](https://img.shields.io/badge/Commits-Active-4A6378?style=flat) ![Status](https://img.shields.io/badge/Status-Ethical%20Hacker-4A6378?style=flat)
 
