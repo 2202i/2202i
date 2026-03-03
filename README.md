@@ -247,7 +247,7 @@ Operating across **technical security operations**, **infrastructure protection*
 <br>
 
 <img src="images/line.png" height="3" width="100%">
-
+<br>
 <br>
 
 <div align="center"> <details style="width: 90%;"> <summary><strong><h2> 🏷️ Holopin Badges 🎖️ </h2></strong>
