@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=240&width=2000&bannerText=Struggle,%20endure,%20contend.%0AFor%20that%20alone%20is%20the%20sword%20of%20one%20who%20defies%20death." />
+  <img src="https://readme-typing-svg.demolab.com?font=Palatino+Linotype&size=45&duration=1200&pause=1000&color=C02026&center=true&vCenter=true&repeat=false&width=435&lines=%EC%95%88%EB%85%95+%2C++I'm+Seol+." alt="Typing SVG" />
 </a>
 
 </div>
@@ -34,12 +34,7 @@ Operating across **technical security operations**, **infrastructure protection*
 </div>
 <!-- berk quote -->
 <img src="images/line.png" height="2" width="100%">
-<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=200&width=2000&bannerText=Struggle,%20endure,%20contend.%0AFor%20that%20alone%20is%20the%20sword%0Aof%20one%20who%20defies%20death." />
-<!-- berk -->
-<img src="images/line.png" height="2" width="100%">
-<div align="center">
-  <img src="images/berk1.jpg" width="100%">
-</div>
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=200&width=2000&bannerText=Struggle,%20endure,%20contend.%0ASword%20who%20defies%20death." />
 <img src="images/line.png" height="2" width="100%">
 <!-- languages and coding tools -->
 <div align="center"> <details style="width: 90%;"> <summary><strong><h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Languages and Coding Tools 🛠️ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2></strong>
@@ -274,3 +269,10 @@ Operating across **technical security operations**, **infrastructure protection*
 </div>
 
 <img src="images/line.png" height="3" width="100%">
+<!-- berk -->
+<div align="center">
+  <img src="images/berk1.jpg" width="100%">
+</div>
+<img src="images/line.png" height="2" width="100%">
+
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/rainy/api?height=200&width=2000&density=20&bannerText=And%20Thus...%20It%20Ends." />
