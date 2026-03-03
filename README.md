@@ -143,7 +143,6 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 ---
 
 <div align="center"> <details style="width: 90%;"> <summary><strong><h2> 🛡️ Hacking Tools that I use a lot </h2></strong>
-<p>저를 클릭해서 내려주세요!</p>
 </summary>
 
 ### 🌐 Network Scanning & Enumeration
