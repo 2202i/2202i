@@ -154,7 +154,7 @@ Operating across **technical security operations**, **infrastructure protection*
 </details>
 </div>
 
----
+<img src="images/line.png" height="3" width="100%">
 
 <div align="center"> <details style="width: 90%;"> <summary><strong><h2> 🛡️ Hacking Tools that I use a lot ⚔️ </h2></strong>
 </summary>
@@ -222,7 +222,7 @@ Operating across **technical security operations**, **infrastructure protection*
 
 </details>
 
----
+<img src="images/line.png" height="3" width="100%">
 
 <div align="center"> <details style="width: 90%;"> <summary><strong><h2>📊 GitHub Stats 📈</h2></strong>
 </summary>
@@ -240,12 +240,11 @@ Operating across **technical security operations**, **infrastructure protection*
 <br><br>
 </details>
 
----
-
+<img src="images/line.png" height="3" width="100%">
 
 <div align="center"> <details style="width: 90%;"> <summary><strong><h2>🏷️ Holopin Badges 🎖️</h2></strong>
 </summary>
   <p><a href="https://holopin.io/@2202i"><img src="https://holopin.me/2202i" alt="@2202i&#39;s Holopin board"></a></p>
 </details>
 
----
+<img src="images/line.png" height="3" width="100%">
