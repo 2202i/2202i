@@ -224,6 +224,7 @@ Operating across **technical security operations**, **infrastructure protection*
 
 <img src="images/line.png" height="3" width="100%">
 
+<br>
 <div align="center"> <details style="width: 90%;"> <summary><strong><h2>📊 GitHub Stats 📈</h2></strong>
 </summary>
 
@@ -239,6 +240,7 @@ Operating across **technical security operations**, **infrastructure protection*
 
 <br><br>
 </details>
+<br>
 
 <img src="images/line.png" height="3" width="100%">
 
