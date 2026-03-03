@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Palatino+Linotype&size=45&duration=1200&pause=1000&color=C02026&center=true&vCenter=true&repeat=false&width=435&lines=%EC%95%88%EB%85%95+%2C++I'm+Seol+." alt="Typing SVG" />
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=240&width=2000&bannerText=Struggle,%20endure,%20contend.%0AFor%20that%20alone%20is%20the%20sword%20of%20one%20who%20defies%20death." />
 </a>
 
 </div>
