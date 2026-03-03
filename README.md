@@ -4,15 +4,22 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=2202i&label=Profile%20Views&color=4A6378&style=flat) ![Commits](https://img.shields.io/badge/Commits-Active-4A6378?style=flat) ![Status](https://img.shields.io/badge/Status-Ethical%20Hacker-4A6378?style=flat)
 
-I specialize on **Ethical Hacking,** **Malware Analysis,** **Vulnerability Analysis,** and **Penetration Testing**.  
-My work spans **penetration testing**, **vulnerability assessment**, **server & cloud infrastructure**, and **software-based security solutions**.
+I specialize in **Ethical Hacking**, **Malware Analysis**, **Vulnerability Assessment**, and **Penetration Testing**, with hands-on experience across both **offensive and defensive security domains**.
+
+My work spans on **technical security operations**, **infrastructure protection**, **server & cloud security**, and **governance-driven information security practices**.
 
 - 🔐 Conduct vulnerability assessments and penetration testing (Web, Mobile, Infrastructure)
-- 🐧 Work extensively with Linux systems, server hardening, and privilege escalation
-- ☁️ Deploy and secure web servers and services using cloud platforms (AWS)
+- 🐞 Perform malware analysis, exploitation, debugging, and remediation
+- 🐧 Extensive experience with Linux systems, server hardening, and privilege escalation
+- ☁️ Deploy and secure web servers and cloud-based services (AWS)
+- 📜 Develop and maintain security policies, procedures, and governance frameworks
+- 📊 Align compliance requirements with risk management and audit controls
+- 🔍 Implement and support security monitoring frameworks
+- 🖥️ Monitor and analyze logs using SIEM Event Log Analyzer (ELA)
+- 🛡️ Manage and review Endpoint Protection (Antivirus)
+- 👥 Conduct Active Directory auditing and access control reviews
 - 🧠 Deliver cybersecurity training, seminars, and technical demonstrations
-- 🐞 Strong foundation in debugging, malware analysis, exploitation, and remediation
-- 🌱 Continuously learning and refining offensive and defensive security practices
+- 🌱 Continuously refining both offensive and defensive security methodologies
 #
 
 
