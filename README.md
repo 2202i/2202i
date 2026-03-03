@@ -28,8 +28,6 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 </strong>
 </summary>
 
-<br>
-
 <!-- Your tables here -->
 
 </details>
