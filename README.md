@@ -16,8 +16,10 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 
 ---
 <!--💻 Languages and Tools 🛠️-->
-<details>
-<summary><h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Languages and Tools 🛠️ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2></summary>
+<div align="center">
+
+<details style="width: 90%;">
+<summary><strong><h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Languages and Tools 🛠️ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2></strong></summary>
 
 <!-- 👨‍💻 Programming & Markup Languages -->
 <h3 align="center">👨‍💻 Programming & Markup Languages</h3>
@@ -132,6 +134,8 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 </tr>
 </table>
 </details>
+</div>
+
 ---
 
 ## 🛡️ Tools that I use a lot
