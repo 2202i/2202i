@@ -237,8 +237,7 @@ Operating across **technical security operations**, **infrastructure protection*
 <br>
 
 <!-- Streak Stats -->
-https://github-readme-stats.vercel.app/api?username=2202i
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2202i&locale=ko)
 <br>
 
 <!-- Activity Graph -->
