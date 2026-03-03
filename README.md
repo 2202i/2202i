@@ -238,9 +238,8 @@ Operating across **technical security operations**, **infrastructure protection*
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph/?username=2202i&theme=github-dark&hide_border=true&area=true" width="100%"/>
 
-<br><br>
 </details>
-<br>
+</div>
 
 <img src="images/line.png" height="3" width="100%">
 
