@@ -6,7 +6,6 @@
 
 </div>
 <br>
-<br>
 <p style="font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; 
           font-size: 20px; 
           font-weight: 800; 
