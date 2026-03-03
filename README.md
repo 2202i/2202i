@@ -29,11 +29,9 @@ Operating across **technical security operations**, **infrastructure protection*
 - 🌱 Continuously refining both offensive and defensive security methodologies
 
 <img src="images/line.png" height="1" width="100%">
-
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Palatino+Linotype&duration=1200&pause=1000&color=C02026&center=true&vCenter=true&repeat=false&width=435&lines=%22%EC%A0%80%EB%8A%94+%EB%AA%85%EC%98%88%EB%A5%BC+%EC%86%8C%EC%A4%91%ED%9E%88+%EC%97%AC%EA%B9%81%EB%8B%88%EB%8B%A4.%22" alt="Typing SVG" /></a>
 </div>
-
 <img src="images/line.png" height="2" width="100%">
 
 <div align="center"> <details style="width: 90%;"> <summary><strong><h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Languages and Coding Tools 🛠️ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2></strong>
