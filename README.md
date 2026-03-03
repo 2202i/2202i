@@ -271,9 +271,7 @@ Operating across **technical security operations**, **infrastructure protection*
 </div>
 
 <img src="images/line.png" height="3" width="100%">
-<!-- berk -->
 <div align="center">
-  <img src="images/berk1.jpg" width="100%">
-</div>
-<img src="images/line.png" height="2" width="100%">
+<img src="images/berk1.jpg" width="100%"></div>
+<img src="images/line.png" height="3" width="100%">
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/rainy/api?height=200&width=2000&density=20&bannerText=And%20Thus...%20It%20Ends." />
