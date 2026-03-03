@@ -15,11 +15,26 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 - 🌱 Continuously learning and refining offensive and defensive security practices
 
 ---
-<!--💻 Languages and Tools 🛠️-->
+
 <div align="center">
 
 <details style="width: 90%;">
-<summary><strong><h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Languages and Tools 🛠️ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2></strong></summary>
+<summary>
+<strong>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+💻 Languages and Tools 🛠️
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+— Click Me 👇
+</strong>
+</summary>
+
+<br>
+
+<!-- Your tables here -->
+
+</details>
+
+</div>
 
 <!-- 👨‍💻 Programming & Markup Languages -->
 <h3 align="center">👨‍💻 Programming & Markup Languages</h3>
