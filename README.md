@@ -232,9 +232,9 @@ I operate across **technical security operations**, **infrastructure protection*
 
 ---
 
-<details> 
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
 
+<div align="center"> <details style="width: 90%;"> <summary><strong><h2>🏷️ Holopin Badges</h2></strong>
+</summary>
   <p><a href="https://holopin.io/@2202i"><img src="https://holopin.me/2202i" alt="@2202i&#39;s Holopin board"></a></p>
 </details>
 
