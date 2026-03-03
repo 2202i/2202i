@@ -13,8 +13,6 @@ My work spans on **technical security operations**, **infrastructure protection*
 - 🐧 Extensive experience with Linux systems, server hardening, and privilege escalation
 - ☁️ Deploy and secure web servers and cloud-based services (AWS)
 - 📜 Develop and maintain security policies, procedures, and governance frameworks
-- 📊 Align compliance requirements with risk management and audit controls
-- 🔍 Implement and support security monitoring frameworks
 - 🖥️ Monitor and analyze logs using SIEM Event Log Analyzer (ELA)
 - 🛡️ Manage and review Endpoint Protection (Antivirus)
 - 👥 Conduct Active Directory auditing and access control reviews
