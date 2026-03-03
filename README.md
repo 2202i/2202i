@@ -34,7 +34,7 @@ Operating across **technical security operations**, **infrastructure protection*
 </div>
 <!-- berk quote -->
 <img src="images/line.png" height="2" width="100%">
-<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=200&width=2000&bannerText=Struggle,%20endure,%20contend.%0AThe%20sword%20of%20one%20who%20defies%20death." />
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=200&width=2000&bannerText=Struggle,%20endure,%20contend.%0AFor%20that%20alone%20is%20the%20sword%0Aof%20one%20who%20defies%20death." />
 <!-- berk -->
 <img src="images/line.png" height="2" width="100%">
 <div align="center">
