@@ -1,4 +1,4 @@
-# 안녕 👋🏻, I'm Seol
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Palatino+Linotype&size=30&duration=1200&pause=1000&color=C02026&center=true&vCenter=true&repeat=false&width=435&lines=%EC%95%88%EB%85%95+%2C++I'm+Seol+." alt="Typing SVG" /></a>
 
 ## Information Security | Cybersecurity Analyst | Penetration Tester | Game Developer | Capture The Flag Player
 
