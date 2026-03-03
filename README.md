@@ -35,7 +35,7 @@ Operating across **technical security operations**, **infrastructure protection*
 <!-- berk -->
 <img src="images/line.png" height="2" width="100%">
 <div align="center">
-  <img src="images/berk1.png" width="100%">
+  <img src="images/berk1.jpg" width="100%">
 </div>
 <img src="images/line.png" height="2" width="100%">
 <!-- languages and coding tools -->
