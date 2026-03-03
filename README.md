@@ -34,7 +34,9 @@ Operating across **technical security operations**, **infrastructure protection*
 </div>
 <!-- berk quote -->
 <img src="images/line.png" height="2" width="100%">
+<div align="center">
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=200&width=2000&bannerText=Struggle,%20endure,%20contend.%0ASword%20who%20defies%20death." />
+</div>
 <img src="images/line.png" height="2" width="100%">
 <!-- languages and coding tools -->
 <div align="center"> <details style="width: 90%;"> <summary><strong><h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Languages and Coding Tools 🛠️ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2></strong>
@@ -274,5 +276,4 @@ Operating across **technical security operations**, **infrastructure protection*
   <img src="images/berk1.jpg" width="100%">
 </div>
 <img src="images/line.png" height="2" width="100%">
-
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/rainy/api?height=200&width=2000&density=20&bannerText=And%20Thus...%20It%20Ends." />
