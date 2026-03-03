@@ -51,109 +51,90 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 
 <!-- 👨‍💻 Programming & Markup Languages -->
 <h3 align="center">👨‍💻 Programming & Markup Languages</h3>
-<table width="100%" cellspacing="0" cellpadding="12" style="border-collapse: collapse;">
-<tr>
-<td align="center" width="20%" style="border: 1px solid #30363d;">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" />
-</td>
-<td align="center" width="20%" style="border: 1px solid #30363d;">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" />
-</td>
-<td align="center" width="20%" style="border: 1px solid #30363d;">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" />
-</td>
-<td align="center" width="20%" style="border: 1px solid #30363d;">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" />
-</td>
-<td align="center" width="20%" style="border: 1px solid #30363d;">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" />
-</td>
-</tr>
 
-<tr>
-<td align="center" style="border: 1px solid #30363d;">
+<div align="center"
+     style="
+     background: rgba(255,255,255,0.03);
+     border: 1px solid rgba(255,255,255,0.08);
+     border-radius: 20px;
+     padding: 25px;
+     margin-bottom: 30px;
+     box-shadow: 0 8px 32px rgba(0,0,0,0.35);
+     ">
+
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/>
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65"/>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/>
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65"/>
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65"/>
+<br><br>
 <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="65"/>
-</td>
-<td align="center" style="border: 1px solid #30363d;">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="65"/>
-</td>
-<td align="center" style="border: 1px solid #30363d;">
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="65"/>
-</td>
-<td align="center" style="border: 1px solid #30363d;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="65"/>
-</td>
-<td align="center" style="border: 1px solid #30363d;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="65"/>
-</td>
-</tr>
-</table>
 
-<br>
+</div>
 
 <!-- 🗄️ Databases -->
 <h3 align="center">🗄️ Databases</h3>
-<table width="100%" cellspacing="0" cellpadding="12" style="border-collapse: collapse;">
-<tr>
-<td align="center" width="50%" style="border: 1px solid #30363d;">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" />
-</td>
-<td align="center" width="50%" style="border: 1px solid #30363d;">
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="65"/>
-</td>
-</tr>
-</table>
 
-<br>
+<div align="center"
+     style="
+     background: rgba(255,255,255,0.03);
+     border: 1px solid rgba(255,255,255,0.08);
+     border-radius: 20px;
+     padding: 25px;
+     margin-bottom: 30px;
+     box-shadow: 0 8px 32px rgba(0,0,0,0.35);
+     ">
+
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"/>
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="65"/>
+
+</div>
 
 <!-- ⚛️ Frameworks & Libraries -->
 <h3 align="center">⚛️ Frameworks & Libraries</h3>
-<table width="100%" cellspacing="0" cellpadding="12" style="border-collapse: collapse;">
-<tr>
-<td align="center" width="50%" style="border: 1px solid #30363d;">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" />
-</td>
-<td align="center" width="50%" style="border: 1px solid #30363d;">
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="65"/>
-</td>
-</tr>
-</table>
 
-<br>
+<div align="center"
+     style="
+     background: rgba(255,255,255,0.03);
+     border: 1px solid rgba(255,255,255,0.08);
+     border-radius: 20px;
+     padding: 25px;
+     margin-bottom: 30px;
+     box-shadow: 0 8px 32px rgba(0,0,0,0.35);
+     ">
+
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/>
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="65"/>
+
+</div>
 
 <!-- 🛠️ DevOps & Tools -->
 <h3 align="center">🛠️ DevOps & Tools</h3>
-<table width="100%" cellspacing="0" cellpadding="12" style="border-collapse: collapse;">
-<tr>
-<td align="center" width="20%" style="border: 1px solid #30363d;">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" />
-</td>
-<td align="center" width="20%" style="border: 1px solid #30363d;">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="65"/>
-</td>
-<td align="center" width="20%" style="border: 1px solid #30363d;">
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="65"/>
-</td>
-<td align="center" width="20%" style="border: 1px solid #30363d;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="65"/>
-</td>
-<td align="center" width="20%" style="border: 1px solid #30363d;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" width="65"/>
-</td>
-</tr>
 
-<tr>
-<td align="center" style="border: 1px solid #30363d;">
+<div align="center"
+     style="
+     background: rgba(255,255,255,0.03);
+     border: 1px solid rgba(255,255,255,0.08);
+     border-radius: 20px;
+     padding: 25px;
+     margin-bottom: 30px;
+     box-shadow: 0 8px 32px rgba(0,0,0,0.35);
+     ">
+
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="65"/>
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="65"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="65"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" width="65"/>
+<br><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="65"/>
-</td>
-<td align="center" style="border: 1px solid #30363d;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="65"/>
-</td>
-<td style="border: 1px solid #30363d;"></td>
-<td style="border: 1px solid #30363d;"></td>
-<td style="border: 1px solid #30363d;"></td>
-</tr>
-</table>
+
+</div>
 ---
 
 ## 🛡️ Tools that I use a lot
