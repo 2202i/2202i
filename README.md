@@ -27,12 +27,13 @@ Operating across **technical security operations**, **infrastructure protection*
 - 👥 Conduct Active Directory auditing and access control reviews
 - 🧠 Deliver cybersecurity training, seminars, and technical demonstrations
 - 🌱 Continuously refining both offensive and defensive security methodologies
-#
+
+<img src="images/line.png" height="1" width="100%">
 
 
 <div align="center">"저는 명예를 소중히 여깁니다."</div>
 
----
+<img src="images/line.png" height="2" width="100%">
 
 <div align="center"> <details style="width: 90%;"> <summary><strong><h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Languages and Coding Tools 🛠️ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2></strong>
 <p>Click me to drop down!</p>
