@@ -16,7 +16,7 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 
 ---
 
-## Programming Languages
+## Programming Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p align="left">
   <!-- Operating Systems / Core -->
@@ -43,10 +43,6 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40"/>
 
 </p>
-
----
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2226908" style='border:none;'></iframe>
 
 ---
 
