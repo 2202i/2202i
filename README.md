@@ -40,7 +40,7 @@ Operating across **technical security operations**, **infrastructure protection*
 <img src="images/line.png" height="2" width="100%">
 <!-- languages and coding tools -->
 <div align="center"> <details style="width: 90%;"> <summary><strong><h2> 🕯️ Runes & Relics 🕯️ </h2></strong>
-<p>Click me to Unveil What Lies Within 👁️</p>
+<p>👁️ Click me to Unveil What Lies Within 👁️</p>
 </summary>
 
 
@@ -233,7 +233,7 @@ Operating across **technical security operations**, **infrastructure protection*
 <br>
 
 <div align="center"> <details style="width: 90%;"> <summary><strong><h2> 📜 Records of Struggle 🗡 </h2></strong>
-<p>𒉭 Brand of the Ashen one.</p>
+<p>𒉭 Brand of the Ashen one. 𒉭</p>
 </summary>
 
 <br>
@@ -257,7 +257,7 @@ Operating across **technical security operations**, **infrastructure protection*
 <br>
 
 <div align="center"> <details style="width: 90%;"> <summary><strong><h2> 🌺 Insignia of the Scarlet Bloom 🩸 </h2></strong>
-<p>Blessings from the Goddess of Rot.</p>
+<p>˚.*ੈ✩‧₊˚ Blessings from the Goddess of Rot. ⋆.˚ ☾⭒.˚</p>
 </summary>
 
 <br>
