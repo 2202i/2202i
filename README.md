@@ -46,7 +46,7 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 
 ---
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2226908" style='border:none;'></iframe>
+<iframe><src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2226908" style='border:none;'></iframe>
 
 ---
 
