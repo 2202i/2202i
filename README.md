@@ -6,14 +6,10 @@
 
 </div>
 <br>
-<p style="font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; 
-          font-size: 40px; 
-          font-weight: 800; 
-          letter-spacing: 1.2px;">
-<strong>
-Information Security | Cybersecurity Analyst | Penetration Tester | Game Developer | Capture The Flag Player
-</strong>
-</p>
+
+
+## Information Security | Cybersecurity Analyst | Penetration Tester | Game Developer | Capture The Flag Player
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=2202i&label=Profile%20Views&color=4A6378&style=flat) ![Commits](https://img.shields.io/badge/Commits-Active-4A6378?style=flat) ![Status](https://img.shields.io/badge/Status-Ethical%20Hacker-4A6378?style=flat)
 
