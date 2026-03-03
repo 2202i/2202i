@@ -39,7 +39,7 @@ Operating across **technical security operations**, **infrastructure protection*
 </div>
 <img src="images/line.png" height="2" width="100%">
 <!-- languages and coding tools -->
-<div align="center"> <details style="width: 90%;"> <summary><strong><h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Languages and Coding Tools 🛠️ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2></strong>
+<div align="center"> <details style="width: 90%;"> <summary><strong><h2>💻 Languages and Coding Tools 🛠️</h2></strong>
 <p>Click me to drop down!</p>
 </summary>
 
