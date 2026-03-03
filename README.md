@@ -91,15 +91,18 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 
 <br>
 
-<!-- 🗄️ Databases -->
-<h3 align="center">🗄️ Databases</h3>
-<table align="center" width="60%" cellspacing="0" cellpadding="14" style="border-collapse: collapse;">
+<!-- 🗄️ Databases & Cloud -->
+<h3 align="center">🗄️ Databases & Cloud</h3>
+<table align="center" width="75%" cellspacing="0" cellpadding="14" style="border-collapse: collapse;">
 <tr>
-<td align="center" width="50%" style="border: 1px solid #30363d;">
+<td align="center" width="33%" style="border: 1px solid #30363d;">
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" />
 </td>
-<td align="center" width="50%" style="border: 1px solid #30363d;">
+<td align="center" width="33%" style="border: 1px solid #30363d;">
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="65"/>
+</td>
+<td align="center" width="33%" style="border: 1px solid #30363d;">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65"/>
 </td>
 </tr>
 </table>
@@ -125,20 +128,23 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 <h3 align="center">🛠️ DevOps & Tools</h3>
 <table align="center" width="90%" cellspacing="0" cellpadding="14" style="border-collapse: collapse;">
 <tr>
-<td align="center" width="20%" style="border: 1px solid #30363d;">
+<td align="center" width="16.6%" style="border: 1px solid #30363d;">
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65"/>
 </td>
-<td align="center" width="20%" style="border: 1px solid #30363d;">
+<td align="center" width="16.6%" style="border: 1px solid #30363d;">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/>
+</td>
+<td align="center" width="16.6%" style="border: 1px solid #30363d;">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="65"/>
 </td>
-<td align="center" width="20%" style="border: 1px solid #30363d;">
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="65"/>
-</td>
-<td align="center" width="20%" style="border: 1px solid #30363d;">
+<td align="center" width="16.6%" style="border: 1px solid #30363d;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="65"/>
 </td>
-<td align="center" width="20%" style="border: 1px solid #30363d;">
+<td align="center" width="16.6%" style="border: 1px solid #30363d;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" width="65"/>
+</td>
+<td align="center" width="16.6%" style="border: 1px solid #30363d;">
+<img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="65"/>
 </td>
 </tr>
 
@@ -149,6 +155,7 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 <td align="center" style="border: 1px solid #30363d;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="65"/>
 </td>
+<td style="border: 1px solid #30363d;"></td>
 <td style="border: 1px solid #30363d;"></td>
 <td style="border: 1px solid #30363d;"></td>
 <td style="border: 1px solid #30363d;"></td>
