@@ -33,6 +33,7 @@ Operating across **technical security operations**, **infrastructure protection*
 
 <div align="center">"저는 명예를 소중히 여깁니다."</div>
 
+
 <img src="images/line.png" height="2" width="100%">
 
 <div align="center"> <details style="width: 90%;"> <summary><strong><h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Languages and Coding Tools 🛠️ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2></strong>
