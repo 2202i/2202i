@@ -14,7 +14,6 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 - 🐞 Strong foundation in debugging, malware analysis, exploitation, and remediation
 - 🌱 Continuously learning and refining offensive and defensive security practices
 
----
 
 <div align="center">"저는 명예를 소중히 여깁니다."</div>
 
