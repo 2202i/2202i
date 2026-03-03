@@ -237,7 +237,7 @@ Operating across **technical security operations**, **infrastructure protection*
 <br>
 
 <!-- Streak Stats -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=2202i&theme=dark&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2202i&show_icons=true&bg_color=000000&title_color=C02026&text_color=FFFFFF&icon_color=C02026&border_color=C02026&locale=kr)
 
 <br>
 
