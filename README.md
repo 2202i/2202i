@@ -214,13 +214,8 @@ I operate across **technical security operations**, **infrastructure protection*
 
 ---
 
-<div align="center">
-
-<details style="width: 90%;">
-<summary>
-<strong>📊 GitHub Stats</span></strong>
+<div align="center"> <details style="width: 90%;"> <summary><strong><h2>📊 GitHub Stats</h2></strong>
 </summary>
-
 
 <!-- Streak Stats -->
 <img src="https://nirzak-streak-stats.vercel.app/?user=2202i&theme=dark&hide_border=true" />
@@ -229,11 +224,17 @@ I operate across **technical security operations**, **infrastructure protection*
 
 <td align="center" width="50%">
 
-
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph/?username=2202i&theme=github-dark&hide_border=true&area=true" width="100%"/>
 
 <br><br>
 
+---
+
+<details> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
+
+  <p><a href="https://holopin.io/@2202i"><img src="https://holopin.me/2202i" alt="@2202i&#39;s Holopin board"></a></p>
+</details>
 
 ---
