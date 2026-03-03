@@ -223,7 +223,7 @@ Operating across **technical security operations**, **infrastructure protection*
 </details>
 
 <img src="images/line.png" height="3" width="100%">
-
+<br>
 <br>
 
 <div align="center"> <details style="width: 90%;"> <summary><strong><h2> 📊 GitHub Stats 📈 </h2></strong>
