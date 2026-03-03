@@ -46,6 +46,41 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 
 ---
 
+## Programming Languages & Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+<p align="left">
+
+  <!-- Programming Languages -->
+  <img src="https://techstack-generator.vercel.app/php-icon.svg" width="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" />
+
+  <!-- Markup -->
+  <img src="https://techstack-generator.vercel.app/html-icon.svg" width="65" />
+  <img src="https://techstack-generator.vercel.app/css-icon.svg" width="65" />
+
+  <!-- Databases -->
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" />
+  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="65" />
+
+  <!-- Frameworks -->
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" />
+  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="65" />
+
+  <!-- Tools -->
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" />
+  <img src="https://techstack-generator.vercel.app/git-icon.svg" width="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" />
+
+</p>
+
+---
+
+---
+
 ## 🛡️ Tools that I use a lot
 
 ### 🌐 Network Scanning & Enumeration
