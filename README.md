@@ -39,8 +39,8 @@ Operating across **technical security operations**, **infrastructure protection*
 </div>
 <img src="images/line.png" height="2" width="100%">
 <!-- languages and coding tools -->
-<div align="center"> <details style="width: 90%;"> <summary><strong><h2>💻 Languages and Coding Tools 🛠️</h2></strong>
-<p>Click me to drop down!</p>
+<div align="center"> <details style="width: 90%;"> <summary><strong><h2> 🕯️ Runes & Relics 🕯️ </h2></strong>
+<p>Click me to Unveil What Lies Within 👁️</p>
 </summary>
 
 
@@ -161,7 +161,8 @@ Operating across **technical security operations**, **infrastructure protection*
 
 <img src="images/line.png" height="3" width="100%">
 
-<div align="center"> <details style="width: 90%;"> <summary><strong><h2> 🛡️ Hacking Tools that I use a lot ⚔️ </h2></strong>
+<div align="center"> <details style="width: 90%;"> <summary><strong><h2> ⚔️ Armaments of Conquest 🩸 </h2></strong>
+<p>⸸ Instruments of War. ⸸</p>
 </summary>
 
 ### 🌐 Network Scanning & Enumeration
@@ -231,7 +232,8 @@ Operating across **technical security operations**, **infrastructure protection*
 <br>
 <br>
 
-<div align="center"> <details style="width: 90%;"> <summary><strong><h2> 📊 GitHub Stats 📈 </h2></strong>
+<div align="center"> <details style="width: 90%;"> <summary><strong><h2> 📜 Records of Struggle 🗡 </h2></strong>
+<p>𒉭 Brand of the Ashen one.</p>
 </summary>
 
 <br>
@@ -254,7 +256,8 @@ Operating across **technical security operations**, **infrastructure protection*
 <br>
 <br>
 
-<div align="center"> <details style="width: 90%;"> <summary><strong><h2> 🏷️ Holopin Badges 🎖️ </h2></strong>
+<div align="center"> <details style="width: 90%;"> <summary><strong><h2> 🌺 Insignia of the Scarlet Bloom 🩸 </h2></strong>
+<p>Blessings from the Goddess of Rot.</p>
 </summary>
 
 <br>
