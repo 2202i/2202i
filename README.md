@@ -47,46 +47,113 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 ---
 <!--💻 Languages and Tools 🛠️-->
 
+<h2 align="center">💻 Languages and Tools 🛠️</h2>
+
 <!-- 👨‍💻 Programming & Markup Languages -->
-<h3>👨‍💻 Programming & Markup Languages</h3>
-<p align="left">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" />
-  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="65"/>
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="65"/>
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="65"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="65"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="65"/>
-</p>
+<h3 align="center">👨‍💻 Programming & Markup Languages</h3>
+<table width="100%" cellspacing="0" cellpadding="12" style="border-collapse: collapse;">
+<tr>
+<td align="center" width="20%" style="border: 1px solid #30363d;">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" />
+</td>
+<td align="center" width="20%" style="border: 1px solid #30363d;">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" />
+</td>
+<td align="center" width="20%" style="border: 1px solid #30363d;">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" />
+</td>
+<td align="center" width="20%" style="border: 1px solid #30363d;">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" />
+</td>
+<td align="center" width="20%" style="border: 1px solid #30363d;">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" />
+</td>
+</tr>
+
+<tr>
+<td align="center" style="border: 1px solid #30363d;">
+<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="65"/>
+</td>
+<td align="center" style="border: 1px solid #30363d;">
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="65"/>
+</td>
+<td align="center" style="border: 1px solid #30363d;">
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="65"/>
+</td>
+<td align="center" style="border: 1px solid #30363d;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="65"/>
+</td>
+<td align="center" style="border: 1px solid #30363d;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="65"/>
+</td>
+</tr>
+</table>
+
+<br>
 
 <!-- 🗄️ Databases -->
-<h3>🗄️ Databases</h3>
-<p align="left">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" />
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="65"/>
-</p>
+<h3 align="center">🗄️ Databases</h3>
+<table width="100%" cellspacing="0" cellpadding="12" style="border-collapse: collapse;">
+<tr>
+<td align="center" width="50%" style="border: 1px solid #30363d;">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" />
+</td>
+<td align="center" width="50%" style="border: 1px solid #30363d;">
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="65"/>
+</td>
+</tr>
+</table>
+
+<br>
 
 <!-- ⚛️ Frameworks & Libraries -->
-<h3>⚛️ Frameworks & Libraries</h3>
-<p align="left">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" />
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="65"/>
-</p>
+<h3 align="center">⚛️ Frameworks & Libraries</h3>
+<table width="100%" cellspacing="0" cellpadding="12" style="border-collapse: collapse;">
+<tr>
+<td align="center" width="50%" style="border: 1px solid #30363d;">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" />
+</td>
+<td align="center" width="50%" style="border: 1px solid #30363d;">
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="65"/>
+</td>
+</tr>
+</table>
+
+<br>
 
 <!-- 🛠️ DevOps & Tools -->
-<h3>🛠️ DevOps & Tools</h3>
-<p align="left">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="65"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="65"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="65"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" width="65"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="65"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="65"/>
-</p>
+<h3 align="center">🛠️ DevOps & Tools</h3>
+<table width="100%" cellspacing="0" cellpadding="12" style="border-collapse: collapse;">
+<tr>
+<td align="center" width="20%" style="border: 1px solid #30363d;">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" />
+</td>
+<td align="center" width="20%" style="border: 1px solid #30363d;">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="65"/>
+</td>
+<td align="center" width="20%" style="border: 1px solid #30363d;">
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="65"/>
+</td>
+<td align="center" width="20%" style="border: 1px solid #30363d;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="65"/>
+</td>
+<td align="center" width="20%" style="border: 1px solid #30363d;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" width="65"/>
+</td>
+</tr>
+
+<tr>
+<td align="center" style="border: 1px solid #30363d;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="65"/>
+</td>
+<td align="center" style="border: 1px solid #30363d;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="65"/>
+</td>
+<td style="border: 1px solid #30363d;"></td>
+<td style="border: 1px solid #30363d;"></td>
+<td style="border: 1px solid #30363d;"></td>
+</tr>
+</table>
 ---
 
 ## 🛡️ Tools that I use a lot
