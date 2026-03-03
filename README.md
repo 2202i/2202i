@@ -16,7 +16,7 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 
 ---
 
-<div align="center"> <details style="width: 90%;"> <summary><strong><h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Languages and Tools 🛠️ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2></strong>
+<div align="center"> <details style="width: 90%;"> <summary><strong><h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Languages and Coding Tools 🛠️ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2></strong>
 <p>Click me to drop down!</p>
 </summary>
 
@@ -138,7 +138,8 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 
 ---
 
-## 🛡️ Tools that I use a lot
+<div align="center"> <details style="width: 90%;"> <summary><strong><h2> 🛡️ Hacking Tools that I use a lot </h2></strong>
+</summary>
 
 ### 🌐 Network Scanning & Enumeration
 [![Nmap](https://img.shields.io/badge/Nmap-Scanner-111111?style=flat&logo=nmap&logoColor=white)](https://nmap.org)
@@ -201,6 +202,7 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 [![SpiderFoot](https://img.shields.io/badge/SpiderFoot-OSINT-111111?style=flat&logo=python&logoColor=white)](https://www.spiderfoot.net)
 [![OSINT Framework](https://img.shields.io/badge/OSINT_Framework-Web-111111?style=flat&logo=firefox&logoColor=white)](https://osintframework.com)
 
+</details>
 
 ---
 
