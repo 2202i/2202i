@@ -1,4 +1,4 @@
-# Hi 👋🏻, I'm Seol
+# 안녕 👋🏻, I'm Seol
 
 ## Information Security | Cybersecurity Analyst | Penetration Tester | Game Developer | Capture The Flag Player
 
