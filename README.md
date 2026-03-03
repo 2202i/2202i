@@ -47,7 +47,7 @@ My work spans **penetration testing**, **vulnerability assessment**, **server & 
 ---
 <!--💻 Languages and Tools 🛠️-->
 
-<h2 align="center">💻 Languages and Tools 🛠️ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2> 
+<h2 align="center">🛠️ Languages and Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2> 
 
 <!-- 👨‍💻 Programming & Markup Languages -->
 <h3 align="center">👨‍💻 Programming & Markup Languages</h3>
