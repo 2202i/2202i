@@ -239,7 +239,9 @@ Operating across **technical security operations**, **infrastructure protection*
 <br>
 
 <!-- Streak Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2202i&locale=ko)
+<a href="#gh-dark-mode-only">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=2202i&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
+</a>
 <br>
 
 <!-- Activity Graph -->
