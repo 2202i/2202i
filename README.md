@@ -39,11 +39,13 @@ Operating across **technical security operations**, **infrastructure protection*
 </div>
 <img src="images/line.png" height="2" width="100%">
 <!-- drop down -->
+```
 > 薪王
-> > 初始之火
-> > > 狂战士铠甲
-> > > > 交界地
-> > > > > 蚀之仪式
+>> 初始之火
+>>> 狂战士铠甲
+>>>> 交界地
+>>>>> 蚀之仪式
+```
 <img src="images/line.png" height="2" width="100%">
 <!-- languages and coding tools -->
 <div align="center"> <details style="width: 90%;"> <summary><strong><h2> 🕯️ Runes & Relics 🕯️ </h2></strong>
