@@ -294,14 +294,17 @@ Operating across **technical security operations**, **infrastructure protection*
 </div>
 
 <img src="images/line.png" height="3" width="100%">
+<br>
+<br>
 
 <div align="center"> <details style="width: 90%;"> <summary><strong><h2> 🔥 Firelink Shrine 🌘 </h2></strong>
 <p> ﴾ Rest here, traveler — find me beyond the flame. ﴿ </p>‏
 </summary>
 <!-- socials -->
 
-</details>
+![Steam Card](https://github-readme-steam-card.vercel.app/status/?steamid=daeboreumseol&animated_avatar=true)
 
+</details>
 <img src="images/line.png" height="3" width="100%">
 
 <div align="center">
