@@ -254,7 +254,8 @@ Operating across **technical security operations**, **infrastructure protection*
 
 <!-- Activity Graph -->
 <p>Some of my credly certs</p>
-[![Certifications](https://github-readme-widgets.vercel.app/api?username=seol&theme=dark)](https://github.com/mechdeveloper/github-readme-widgets)
+
+![Credly Certifications 小部件](https://github-readme-widgets.vercel.app/api?username=seol&theme=dark)
 
 <br>
 
