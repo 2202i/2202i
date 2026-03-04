@@ -252,8 +252,9 @@ Operating across **technical security operations**, **infrastructure protection*
 <!-- Activity Graph -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2202i&theme=high-contrast&line=C02026&point=C02026&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- Cultivation graph -->
-![GitHub Stats](https://github-immortality.vercel.app/api?username=2202i)
+<!-- Activity Graph -->
+<p>Some of my credly certs</p>
+[![Certifications](https://github-readme-widgets.vercel.app/api?username=seol&theme=dark)](https://github.com/mechdeveloper/github-readme-widgets)
 
 <br>
 
