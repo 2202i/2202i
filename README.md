@@ -239,24 +239,7 @@ Operating across **technical security operations**, **infrastructure protection*
 <br>
 
 <!-- Streak Stats -->
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com
-  ?user=2202i
-  &locale=ko
-  &theme=default
-  &border_radius=20
-  &ring=C02026
-  &fire=C02026
-  &currStreakNum=C02026
-  &sideNums=C02026
-  &currStreakLabel=C02026
-  &sideLabels=C02026
-  &dates=C02026
-  &stroke=C02026
-  &background=000000
-  &border=C02026"
-  alt="GitHub 연속 기여 기록" />
-</a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=2202i&theme=travelers-theme&locale=ko&stroke=C02026&background=000000&ring=C02026&fire=C02026&currStreakNum=C02026&sideNums=C02026&currStreakLabel=C02026&sideLabels=C02026&dates=C02026&excludeDaysLabel=C02026&border=C02026" alt="GitHub Streak" /></a>
 <br>
 
 <!-- Activity Graph -->
