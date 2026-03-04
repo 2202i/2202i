@@ -266,8 +266,10 @@ Operating across **technical security operations**, **infrastructure protection*
 <p> ঔঌ Where every contribution rekindles the First Flame. ৡ </p>
 </summary>
 <!-- farm -->
-![Git Animals](https://render.gitanimals.org/farms/2202i)
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{2202i}"/>
+</a>
+</details>
 <img src="images/line.png" height="3" width="100%">
 <br>
 <br>
