@@ -262,7 +262,15 @@ Operating across **technical security operations**, **infrastructure protection*
 <img src="images/line.png" height="3" width="100%">
 <br>
 <br>
+<div align="center"> <details style="width: 90%;"> <summary><strong><h2> 🔥 Ashen Fields 🐺 </h2></strong>
+<p> ঔঌ Where every contribution rekindles the First Flame. ৡ </p>
+</summary>
+<!-- farm -->
+![Git Animals](https://render.gitanimals.org/farms/2202i)
 
+<img src="images/line.png" height="3" width="100%">
+<br>
+<br>
 <div align="center"> <details style="width: 90%;"> <summary><strong><h2> 👑 Insignia of the Scarlet Bloom 🌸 </h2></strong>
 <p>˚.*ੈ✩‧₊˚ Blessings from the Goddess of Rot. ⋆.˚ ☾⭒.˚</p>
 </summary>
