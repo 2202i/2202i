@@ -302,7 +302,7 @@ Operating across **technical security operations**, **infrastructure protection*
 </summary>
 <!-- socials -->
 
-![Steam Card](https://github-readme-steam-card.vercel.app/status/?steamid=daeboreumseol&animated_avatar=true)
+![Steam Card](https://github-readme-steam-card.vercel.app/status/?steamid=76561199009449552&animated_avatar=true)
 
 </details>
 <img src="images/line.png" height="3" width="100%">
