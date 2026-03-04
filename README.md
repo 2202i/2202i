@@ -39,7 +39,7 @@ Operating across **technical security operations**, **infrastructure protection*
 </div>
 <img src="images/line.png" height="2" width="100%">
 <!-- drop down -->
-> <a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?cursorStyle=underline&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22%E8%96%AA%E7%8E%8B%22%2C%22color%22%3A%22%23c02026%22%2C%22letterSpacing%22%3A%220.5em%22%2C%22typingSpeed%22%3A0.2%7D%5D" alt="Typing SVG" /></a>
+> 薪王
 >> 初始之火
 >>> 狂战士铠甲
 >>>> 交界地
