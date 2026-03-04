@@ -40,15 +40,11 @@ Operating across **technical security operations**, **infrastructure protection*
 <img src="images/line.png" height="2" width="100%">
 <!-- drop down -->
 
-<blockquote>
-<span style="color:#C02026">
-薪王<br>
-&nbsp;&nbsp;初始之火<br>
-&nbsp;&nbsp;&nbsp;&nbsp;狂战士铠甲<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;交界地<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;蚀之仪式
-</span>
-</blockquote>
+> 薪王
+>> 初始之火
+>>> 狂战士铠甲
+>>>> 交界地
+>>>>> 蚀之仪式
 
 <img src="images/line.png" height="2" width="100%">
 <!-- languages and coding tools -->
