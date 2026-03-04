@@ -294,6 +294,16 @@ Operating across **technical security operations**, **infrastructure protection*
 </div>
 
 <img src="images/line.png" height="3" width="100%">
+
+<div align="center"> <details style="width: 90%;"> <summary><strong><h2> 🔥 Firelink Shrine 🌘 </h2></strong>
+<p> ﴾ Rest here, traveler — find me beyond the flame. ﴿ </p>‏
+</summary>
+<!-- socials -->
+
+</details>
+
+<img src="images/line.png" height="3" width="100%">
+
 <div align="center">
 <img src="images/berk1.jpg" width="100%"></div>
 <img src="images/line.png" height="3" width="100%">
