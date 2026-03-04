@@ -38,12 +38,17 @@ Operating across **technical security operations**, **infrastructure protection*
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=200&width=2000&bannerText=Struggle,%20endure,%20contend.%0A—Sword%20who%20defies%20death." />
 </div>
 <img src="images/line.png" height="2" width="100%">
+<!-- drop down -->
+> <a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?cursorStyle=underline&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22%E8%96%AA%E7%8E%8B%22%2C%22color%22%3A%22%23c02026%22%2C%22letterSpacing%22%3A%220.5em%22%2C%22typingSpeed%22%3A0.2%7D%5D" alt="Typing SVG" /></a>
+>> 初始之火
+>>> 狂战士铠甲
+>>>> 交界地
+>>>>> 蚀之仪式
+<img src="images/line.png" height="2" width="100%">
 <!-- languages and coding tools -->
 <div align="center"> <details style="width: 90%;"> <summary><strong><h2> 🕯️ Runes & Relics 🕯️ </h2></strong>
 <p>👁️ Click me to Unveil What Lies Within 👁️</p>
 </summary>
-
-
 <!-- 👨‍💻 Programming & Markup Languages -->
 <h3 align="center">👨‍💻 Programming & Markup Languages</h3>
 <table align="center" width="90%" cellspacing="0" cellpadding="14" style="border-collapse: collapse;">
