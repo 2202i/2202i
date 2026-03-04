@@ -305,6 +305,7 @@ Operating across **technical security operations**, **infrastructure protection*
 ![Steam Card](https://github-readme-steam-card.vercel.app/status/?steamid=76561199009449552&animated_avatar=true)
 
 </details>
+</div>
 <img src="images/line.png" height="3" width="100%">
 
 <div align="center">
