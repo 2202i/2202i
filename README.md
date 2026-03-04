@@ -252,6 +252,9 @@ Operating across **technical security operations**, **infrastructure protection*
 <!-- Activity Graph -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2202i&theme=high-contrast&line=C02026&point=C02026&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!-- 3d -->
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <!-- Activity Graph -->
 <p>Some of my credly certs</p>
 
