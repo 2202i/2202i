@@ -270,7 +270,7 @@ Operating across **technical security operations**, **infrastructure protection*
   <img src="https://render.gitanimals.org/farms/{2202i}"/>
 </a>
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/guilds/{816868700512149122}/draw"/>
+  <img src="https://render.gitanimals.org/guilds/816868700512149122/draw"/>
 </a>
 </details>
 <img src="images/line.png" height="3" width="100%">
