@@ -223,6 +223,20 @@ Operating across **technical security operations**, **infrastructure protection*
 [![Wireshark](https://img.shields.io/badge/Wireshark-Forensics-111111?style=flat&logo=wireshark&logoColor=white)](https://www.wireshark.org)
 [![TCPdump](https://img.shields.io/badge/TCPdump-Traffic_Analysis-111111?style=flat&logo=linux&logoColor=white)](https://www.tcpdump.org)
 
+### 📊 SIEM & Log Monitoring
+[![Event Log Analyzer](https://img.shields.io/badge/Event_Log_Analyzer-SIEM-111111?style=flat&logo=manageengine&logoColor=white)](https://www.manageengine.com/products/eventlog/)
+[![Splunk](https://img.shields.io/badge/Splunk-SIEM-111111?style=flat&logo=splunk&logoColor=white)](https://www.splunk.com)
+[![SentinelOne Singularity](https://img.shields.io/badge/SentinelOne-Singularity_AI-111111?style=flat&logo=sentinelone&logoColor=white)](https://www.sentinelone.com)
+
+### 🛡️ Endpoint Protection (EDR/XDR)
+[![Palo Alto](https://img.shields.io/badge/Palo_Alto-Security-111111?style=flat&logo=paloaltonetworks&logoColor=white)](https://www.paloaltonetworks.com)
+[![CrowdStrike](https://img.shields.io/badge/CrowdStrike-EDR-111111?style=flat&logo=crowdstrike&logoColor=white)](https://www.crowdstrike.com)
+[![Bitdefender](https://img.shields.io/badge/Bitdefender-Endpoint-111111?style=flat&logo=bitdefender&logoColor=white)](https://www.bitdefender.com)
+[![Trend Micro](https://img.shields.io/badge/TrendMicro-Security-111111?style=flat&logo=trendmicro&logoColor=white)](https://www.trendmicro.com)
+[![Fortinet](https://img.shields.io/badge/Fortinet-Security-111111?style=flat&logo=fortinet&logoColor=white)](https://www.fortinet.com)
+[![Cisco](https://img.shields.io/badge/Cisco-Security-111111?style=flat&logo=cisco&logoColor=white)](https://www.cisco.com)
+[![SentinelOne](https://img.shields.io/badge/SentinelOne-EDR-111111?style=flat&logo=sentinelone&logoColor=white)](https://www.sentinelone.com)
+
 ### 🛡️ Defensive Scanning & Validation
 [![Nessus](https://img.shields.io/badge/Nessus-Blue_Team-111111?style=flat&logo=tenable&logoColor=white)](https://www.tenable.com/products/nessus)
 [![OpenVAS](https://img.shields.io/badge/OpenVAS-Blue_Team-111111?style=flat&logo=greenbone&logoColor=white)](https://www.openvas.org)
