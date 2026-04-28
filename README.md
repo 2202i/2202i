@@ -180,6 +180,7 @@ Operating across **technical security operations**, **infrastructure protection*
 [![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-111111?style=flat&logo=wireshark&logoColor=white)](https://www.wireshark.org)
 [![TCPdump](https://img.shields.io/badge/TCPdump-Packet_Analysis-111111?style=flat&logo=linux&logoColor=white)](https://www.tcpdump.org)
 [![Shodan CLI](https://img.shields.io/badge/Shodan_CLI-OSINT-111111?style=flat&logo=shodan&logoColor=white)](https://developer.shodan.io)
+[![Kerbrute](https://img.shields.io/badge/Kerbrute-Kerberos_Enum-111111?style=flat&logo=linux&logoColor=white)](https://github.com/ropnop/kerbrute)
 
 ### 🔍 Vulnerability Scanners
 [![OpenVAS](https://img.shields.io/badge/OpenVAS-Vulnerability-111111?style=flat&logo=greenbone&logoColor=white)](https://www.openvas.org)
@@ -194,6 +195,8 @@ Operating across **technical security operations**, **infrastructure protection*
 [![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-Web_Testing-111111?style=flat&logo=owasp&logoColor=white)](https://www.zaproxy.org)
 [![Gobuster](https://img.shields.io/badge/Gobuster-Discovery-111111?style=flat&logo=go&logoColor=white)](https://github.com/OJ/gobuster)
 [![DirBuster](https://img.shields.io/badge/DirBuster-Discovery-111111?style=flat&logo=java&logoColor=white)](https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project)
+[![Feroxbuster](https://img.shields.io/badge/Feroxbuster-Discovery-111111?style=flat&logo=rust&logoColor=white)](https://github.com/epi052/feroxbuster)
+[![SecLists](https://img.shields.io/badge/SecLists-Wordlists-111111?style=flat&logo=linux&logoColor=white)](https://github.com/danielmiessler/SecLists)
 
 
 ## 🔴 Red Team Tools
@@ -208,6 +211,10 @@ Operating across **technical security operations**, **infrastructure protection*
 [![Metasploit](https://img.shields.io/badge/Metasploit-Framework-111111?style=flat&logo=metasploit&logoColor=white)](https://www.metasploit.com)
 [![SQLmap](https://img.shields.io/badge/SQLmap-SQLi-111111?style=flat&logo=python&logoColor=white)](https://sqlmap.org)
 [![CrackMapExec](https://img.shields.io/badge/CrackMapExec-Active_Directory-111111?style=flat&logo=linux&logoColor=white)](https://github.com/Porchetta-Industries/CrackMapExec)
+[![ExploitDB](https://img.shields.io/badge/ExploitDB-Exploit_Search-111111?style=flat&logo=linux&logoColor=white)](https://www.exploit-db.com)
+[![BloodHound](https://img.shields.io/badge/BloodHound-AD_Recon-111111?style=flat&logo=linux&logoColor=white)](https://github.com/BloodHoundAD/BloodHound)
+[![Impacket](https://img.shields.io/badge/Impacket-AD_Attacks-111111?style=flat&logo=python&logoColor=white)](https://github.com/fortra/impacket)
+[![Evil-WinRM](https://img.shields.io/badge/Evil--WinRM-Remote_Shell-111111?style=flat&logo=powershell&logoColor=white)](https://github.com/Hackplayers/evil-winrm)
 
 ## 🪟 Windows Payloads & Privilege Escalation
 [![msfvenom](https://img.shields.io/badge/msfvenom-Payload_Generation-111111?style=flat&logo=metasploit&logoColor=white)](https://docs.metasploit.com/docs/using-metasploit/basics/how-to-use-msfvenom.html)
@@ -216,6 +223,13 @@ Operating across **technical security operations**, **infrastructure protection*
 
 ## 🧪 Command & Control (C2) Frameworks (Automated Exploitation mostly)
 [![Metasploit](https://img.shields.io/badge/Metasploit-C2_Framework-111111?style=flat&logo=metasploit&logoColor=white)](https://www.metasploit.com)
+
+## 🔬 Reverse Engineering & Debugging
+[![IDA Pro](https://img.shields.io/badge/IDA_Pro-Disassembler-111111?style=flat&logo=linux&logoColor=white)](https://hex-rays.com/ida-pro/)
+[![x64dbg](https://img.shields.io/badge/x64dbg-Debugger-111111?style=flat&logo=windows&logoColor=white)](https://x64dbg.com)
+[![Ghidra](https://img.shields.io/badge/Ghidra-RE_Framework-111111?style=flat&logo=nsa&logoColor=white)](https://ghidra-sre.org)
+[![Radare2](https://img.shields.io/badge/Radare2-RE_Framework-111111?style=flat&logo=linux&logoColor=white)](https://rada.re/n/)
+[![Binary Ninja](https://img.shields.io/badge/Binary_Ninja-Disassembler-111111?style=flat&logo=linux&logoColor=white)](https://binary.ninja)
 
 ## 🔵 Blue Team / Defensive Tools
 
@@ -241,11 +255,27 @@ Operating across **technical security operations**, **infrastructure protection*
 [![Nessus](https://img.shields.io/badge/Nessus-Blue_Team-111111?style=flat&logo=tenable&logoColor=white)](https://www.tenable.com/products/nessus)
 [![OpenVAS](https://img.shields.io/badge/OpenVAS-Blue_Team-111111?style=flat&logo=greenbone&logoColor=white)](https://www.openvas.org)
 
+### 🧩 Digital Forensics & Incident Response
+[![Volatility](https://img.shields.io/badge/Volatility-Memory_Forensics-111111?style=flat&logo=linux&logoColor=white)](https://www.volatilityfoundation.org)
+[![Autopsy](https://img.shields.io/badge/Autopsy-DFIR-111111?style=flat&logo=linux&logoColor=white)](https://www.autopsy.com)
+[![FTK Imager](https://img.shields.io/badge/FTK_Imager-Disk_Forensics-111111?style=flat&logo=windows&logoColor=white)](https://www.exterro.com/ftk-imager)
+
 ## 🧰 OSINT & Reconnaissance
 [![Amass](https://img.shields.io/badge/Amass-OSINT-111111?style=flat&logo=owasp&logoColor=white)](https://github.com/owasp-amass/amass)
 [![Recon-ng](https://img.shields.io/badge/Recon--ng-Framework-111111?style=flat&logo=python&logoColor=white)](https://github.com/lanmaster53/recon-ng)
 [![SpiderFoot](https://img.shields.io/badge/SpiderFoot-OSINT-111111?style=flat&logo=python&logoColor=white)](https://www.spiderfoot.net)
 [![OSINT Framework](https://img.shields.io/badge/OSINT_Framework-Web-111111?style=flat&logo=firefox&logoColor=white)](https://osintframework.com)
+
+## 🎯 CTF & Binary Exploitation
+[![pwntools](https://img.shields.io/badge/pwntools-CTF_Framework-111111?style=flat&logo=python&logoColor=white)](https://github.com/Gallopsled/pwntools)
+[![CyberChef](https://img.shields.io/badge/CyberChef-Encoding_Decoding-111111?style=flat&logo=github&logoColor=white)](https://gchq.github.io/CyberChef/)
+[![stegseek](https://img.shields.io/badge/stegseek-Steganography-111111?style=flat&logo=linux&logoColor=white)](https://github.com/RickdeJager/stegseek)
+[![checksec](https://img.shields.io/badge/checksec-Binary_Analysis-111111?style=flat&logo=linux&logoColor=white)](https://github.com/slimm609/checksec.sh)
+
+## 🤖 AI-Assisted Development
+[![Claude](https://img.shields.io/badge/Claude_Sonnet_4.6-AI_Coding-111111?style=flat&logo=anthropic&logoColor=white)](https://claude.ai)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-AI_Coding-111111?style=flat&logo=openai&logoColor=white)](https://chat.openai.com)
+[![Gemini](https://img.shields.io/badge/Gemini-AI_Coding-111111?style=flat&logo=google&logoColor=white)](https://gemini.google.com)
 
 </details>
 
