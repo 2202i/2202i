@@ -8,7 +8,7 @@
 <br>
 
   <strong>
-    Information Security | Cybersecurity Analyst | Penetration Tester | Game Developer | Capture The Flag Player
+    Information Security | Cybersecurity Analyst | Penetration Tester | Capture The Flag Player
   </strong>
 <img src="images/line.png" height="2" width="100%">
 
@@ -48,7 +48,7 @@ Operating across **technical security operations**, **infrastructure protection*
 
 <img src="images/line.png" height="2" width="100%">
 <!-- languages and coding tools -->
-<div align="center"> <details style="width: 90%;"> <summary><strong><h2> 🕯️ Runes & Relics 🕯️ </h2></strong>
+<div align="center"> <details open style="width: 90%;"> <summary><strong><h2> 🕯️ Runes & Relics 🕯️ </h2></strong>
 <p>👁️ Click me to Unveil What Lies Within 👁️</p>
 </summary>
 <!-- 👨‍💻 Programming & Markup Languages -->
@@ -355,6 +355,8 @@ Operating across **technical security operations**, **infrastructure protection*
 <!-- socials -->
 
 ![Steam Card](https://github-readme-steam-card.vercel.app/status/?steamid=76561199009449552&animated_avatar=true)
+
+[![CTFtime](https://img.shields.io/badge/CTFtime-Profile-C02026?style=flat&logo=hackthebox&logoColor=white)](https://ctftime.org/user/174263)
 
 </details>
 </div>
