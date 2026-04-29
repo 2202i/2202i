@@ -17,16 +17,15 @@
 I specialize in **Ethical Hacking**, **Malware Analysis**, **Vulnerability Assessment**, **Penetration Testing**, and **Information Security**. <br>
 Operating across **technical security operations**, **infrastructure protection**, **server and cloud security**, and **governance-driven information security practices**.
 
-- 🔐 Conduct vulnerability assessments and penetration testing (Web, Mobile, Infrastructure)
-- 🐞 Perform malware analysis, exploitation, debugging, and remediation
-- 🐧 Extensive experience with Linux systems, server hardening, and privilege escalation
-- ☁️ Deploy and secure web servers and cloud-based services (AWS)
-- 📜 Develop and maintain security policies, procedures, and governance frameworks
-- 🖥️ Monitor and analyze logs using SIEM Event Log Analyzer (ELA)
-- 🛡️ Manage and review Endpoint Protection (Antivirus)
-- 👥 Conduct Active Directory auditing and access control reviews
-- 🧠 Deliver cybersecurity training, seminars, and technical demonstrations
-- 🌱 Continuously refining both offensive and defensive security methodologies
+🔐 Perform vulnerability assessments and penetration testing (web, mobile, infrastructure)
+🐞 Conduct malware analysis, exploitation, debugging, and remediation
+🐧 Strong background in Linux systems, server hardening, and privilege escalation
+☁️ Deploy and secure web servers and cloud environments (AWS)
+📜 Develop and maintain security policies, procedures, and governance frameworks
+🖥️ Monitor and analyze security events using SIEM tools
+🛡️ Manage and evaluate endpoint protection solutions
+👥 Audit Active Directory and enforce access control best practices
+🧠 Deliver cybersecurity training, seminars, and technical demos
 <!-- Honor -->
 <img src="images/line.png" height="1" width="100%">
 <div align="center">
