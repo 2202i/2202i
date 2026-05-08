@@ -167,8 +167,8 @@ Operating across **technical security operations**, **infrastructure protection*
 <img src="images/line.png" height="3" width="100%">
 
 <div align="center"> <details style="width: 90%;"> <summary><strong><h2> ⚔️ Armaments of Conquest 🩸 </h2></strong>
-<p>👁️ Click me to Unveil What Lies Within 👁️</p>
 <p>⸸ Instruments of War. ⸸</p>
+<p>👁️ Click me to Unveil What Lies Within 👁️</p>
 </summary>
 
 ### 🌐 Network Scanning & Enumeration
