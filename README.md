@@ -48,7 +48,6 @@ Operating across **technical security operations**, **infrastructure protection*
 <img src="images/line.png" height="2" width="100%">
 <!-- languages and coding tools -->
 <div align="center"> <details open style="width: 90%;"> <summary><strong><h2> 🕯️ Runes & Relics 🕯️ </h2></strong>
-<p>👁️ Click me to Unveil What Lies Within 👁️</p>
 </summary>
 <!-- 👨‍💻 Programming & Markup Languages -->
 <h3 align="center">👨‍💻 Programming & Markup Languages</h3>
@@ -168,6 +167,7 @@ Operating across **technical security operations**, **infrastructure protection*
 <img src="images/line.png" height="3" width="100%">
 
 <div align="center"> <details style="width: 90%;"> <summary><strong><h2> ⚔️ Armaments of Conquest 🩸 </h2></strong>
+<p>👁️ Click me to Unveil What Lies Within 👁️</p>
 <p>⸸ Instruments of War. ⸸</p>
 </summary>
 
