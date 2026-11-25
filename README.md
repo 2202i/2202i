@@ -8,13 +8,13 @@
 <br>
 
   <strong>
-    Information Security | Cybersecurity Analyst | Penetration Tester | Capture The Flag Player
+    Information Security | Cybersecurity Analyst | Penetration Tester | Compliance Coordinator | Capture The Flag Player
   </strong>
 <img src="images/line.png" height="2" width="100%">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=2202i&label=Profile%20Views&color=4A6378&style=flat) ![Commits](https://img.shields.io/badge/Commits-Active-4A6378?style=flat) ![Status](https://img.shields.io/badge/Status-Ethical%20Hacker-4A6378?style=flat) ![Ashen One](https://img.shields.io/badge/Ashen%20One-Struggler-C02026?style=flat)
 
-I specialize in **Ethical Hacking**, **Malware Analysis**, **Vulnerability Assessment**, **Penetration Testing**, and **Information Security**. <br>
+I specialize in **Ethical Hacking**, **Malware Analysis**, **Vulnerability Assessment**, **Penetration Testing**, **Regulatory Compliance (BSP, AFASA, AMLA)**, and **Information Security**. <br>
 Operating across **technical security operations**, **infrastructure protection**, **server and cloud security**, and **governance-driven information security practices**.
 
 - 🔐 Perform vulnerability assessments and penetration testing (web, mobile, infrastructure)
@@ -25,6 +25,9 @@ Operating across **technical security operations**, **infrastructure protection*
 - 🖥️ Monitor and analyze security events using SIEM tools
 - 🛡️ Manage and evaluate endpoint protection solutions
 - 👥 Audit Active Directory and enforce access control best practices
+- 📋 Coordinate BSP, AFASA, and AMLA compliance, audit evidence, and regulatory incident reporting
+- 🤝 Manage vendor security projects and procurement, reporting progress to executives
+- 🔥 Monitor and configure web firewalls; review privileged-access logs to enforce least privilege
 - 🧠 Deliver cybersecurity training, seminars, and technical demos
 <!-- Honor -->
 <img src="images/line.png" height="1" width="100%">
@@ -258,6 +261,27 @@ Operating across **technical security operations**, **infrastructure protection*
 [![Volatility](https://img.shields.io/badge/Volatility-Memory_Forensics-111111?style=flat&logo=linux&logoColor=white)](https://www.volatilityfoundation.org)
 [![Autopsy](https://img.shields.io/badge/Autopsy-DFIR-111111?style=flat&logo=linux&logoColor=white)](https://www.autopsy.com)
 [![FTK Imager](https://img.shields.io/badge/FTK_Imager-Disk_Forensics-111111?style=flat&logo=windows&logoColor=white)](https://www.exterro.com/ftk-imager)
+
+### 📋 Governance, Risk & Compliance
+[![BSP Regulations](https://img.shields.io/badge/BSP_Regulations-Compliance-111111?style=flat&logo=readthedocs&logoColor=white)](https://www.bsp.gov.ph)
+[![AFASA](https://img.shields.io/badge/AFASA-Compliance-111111?style=flat&logo=readthedocs&logoColor=white)](https://www.bsp.gov.ph)
+[![AMLA](https://img.shields.io/badge/AMLA-Compliance-111111?style=flat&logo=readthedocs&logoColor=white)](https://www.amlc.gov.ph)
+[![ISO 20022](https://img.shields.io/badge/ISO_20022-Harmonization-111111?style=flat&logo=readthedocs&logoColor=white)](https://www.iso20022.org)
+[![ISMS](https://img.shields.io/badge/ISMS-Information_Security-111111?style=flat&logo=readthedocs&logoColor=white)](https://www.iso.org/isoiec-27001-information-security.html)
+[![IT Auditing & GRC](https://img.shields.io/badge/IT_Auditing_%26_GRC-Audit_Support-111111?style=flat&logo=readthedocs&logoColor=white)](https://www.isaca.org)
+
+### 🔥 Firewall & Infrastructure
+[![Sucuri](https://img.shields.io/badge/Sucuri-Web_Firewall-111111?style=flat&logo=sucuri&logoColor=white)](https://sucuri.net)
+[![Active Directory](https://img.shields.io/badge/Active_Directory-Access_Control-111111?style=flat&logo=windows&logoColor=white)](https://learn.microsoft.com/windows-server/identity/ad-ds/)
+[![Proxmox](https://img.shields.io/badge/Proxmox-Virtualization-111111?style=flat&logo=proxmox&logoColor=white)](https://www.proxmox.com)
+[![Red Hat](https://img.shields.io/badge/Red_Hat-RH124-111111?style=flat&logo=redhat&logoColor=white)](https://www.redhat.com)
+[![AWS](https://img.shields.io/badge/AWS-Cloud_Security-111111?style=flat&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com)
+
+### 🏅 Certifications
+[![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-111111?style=flat&logo=readthedocs&logoColor=white)](https://www.isc2.org/certifications/cc)
+[![CCNA](https://img.shields.io/badge/Cisco-CCNAv7-111111?style=flat&logo=cisco&logoColor=white)](https://www.cisco.com)
+[![Splunk](https://img.shields.io/badge/Splunk-Defense_Analyst-111111?style=flat&logo=splunk&logoColor=white)](https://www.splunk.com)
+[![C3SA](https://img.shields.io/badge/CyberWarfare_Labs-C3SA-111111?style=flat&logo=readthedocs&logoColor=white)](https://cyberwarfare.live)
 
 ## 🧰 OSINT & Reconnaissance
 [![Amass](https://img.shields.io/badge/Amass-OSINT-111111?style=flat&logo=owasp&logoColor=white)](https://github.com/owasp-amass/amass)
