@@ -57,19 +57,19 @@ Operating across **technical security operations**, **infrastructure protection*
 <table align="center" width="90%" cellspacing="0" cellpadding="14" style="border-collapse: collapse;">
 <tr>
 <td align="center" width="20%" style="border: 1px solid #30363d;">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="65" />
 </td>
 <td align="center" width="20%" style="border: 1px solid #30363d;">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="65" />
 </td>
 <td align="center" width="20%" style="border: 1px solid #30363d;">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="65" />
 </td>
 <td align="center" width="20%" style="border: 1px solid #30363d;">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="65" />
 </td>
 <td align="center" width="20%" style="border: 1px solid #30363d;">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="65" />
 </td>
 </tr>
 
@@ -99,13 +99,13 @@ Operating across **technical security operations**, **infrastructure protection*
 <table align="center" width="75%" cellspacing="0" cellpadding="14" style="border-collapse: collapse;">
 <tr>
 <td align="center" width="33%" style="border: 1px solid #30363d;">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="65" />
 </td>
 <td align="center" width="33%" style="border: 1px solid #30363d;">
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="65"/>
 </td>
 <td align="center" width="33%" style="border: 1px solid #30363d;">
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="65"/>
 </td>
 </tr>
 </table>
@@ -117,7 +117,7 @@ Operating across **technical security operations**, **infrastructure protection*
 <table align="center" width="60%" cellspacing="0" cellpadding="14" style="border-collapse: collapse;">
 <tr>
 <td align="center" width="50%" style="border: 1px solid #30363d;">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="65"/>
 </td>
 <td align="center" width="50%" style="border: 1px solid #30363d;">
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="65"/>
@@ -132,10 +132,10 @@ Operating across **technical security operations**, **infrastructure protection*
 <table align="center" width="90%" cellspacing="0" cellpadding="14" style="border-collapse: collapse;">
 <tr>
 <td align="center" width="16.6%" style="border: 1px solid #30363d;">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="65"/>
 </td>
 <td align="center" width="16.6%" style="border: 1px solid #30363d;">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/>
+<img src="https://cdn.simpleicons.org/github/white" width="65"/>
 </td>
 <td align="center" width="16.6%" style="border: 1px solid #30363d;">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="65"/>
@@ -147,7 +147,7 @@ Operating across **technical security operations**, **infrastructure protection*
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" width="65"/>
 </td>
 <td align="center" width="16.6%" style="border: 1px solid #30363d;">
-<img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="65"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="65"/>
 </td>
 </tr>
 
