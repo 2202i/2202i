@@ -8,7 +8,7 @@
 <br>
 
   <strong>
-    Information Security | Cybersecurity Analyst | Penetration Tester | Compliance Coordinator | Capture The Flag Player
+    Information Security Officer | Cybersecurity Analyst | Penetration Tester | Compliance Coordinator
   </strong>
 <img src="images/line.png" height="2" width="100%">
 
